@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --pink: #c47db5;
+  --pink-light: #d8a8cc;
+  --pink-glow: rgba(196, 125, 181, 0.35);
+  --bg: #13091a;
+  --bg2: #0e0714;
+  --text: #e8d5e8;
+  --muted: #9a7898;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'Comfortaa', sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
