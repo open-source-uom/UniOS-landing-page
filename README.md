@@ -1,4 +1,20 @@
-# TODO: Make a fuckass readme
+# TODO: Make a better readme
+
+# How to run
+
+Ensure that you have nodejs installed and npm
+
+Run:
+
+```
+npm install
+```
+
+To install dependencies and to run:
+
+```
+npm run dev
+```
 
 # React + Vite
 
