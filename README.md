@@ -4,13 +4,13 @@
 
 Ensure that you have nodejs installed and npm
 
-Run:
+To install dependencies run:
 
 ```
 npm install
 ```
 
-To install dependencies and to run:
+To open preview run:
 
 ```
 npm run dev
